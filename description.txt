@@ -3,5 +3,3 @@ This project contains the following programs:
     2) 'sum.c' which calculates the sum of two numbers.
     3) 'product.c' which calcultes the product of two numbers.
     4) 'goodbye.c' which prints 'Goodbye!'.
-
-This line was added by mistake and will be reverted in the next commit.
