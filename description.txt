@@ -2,3 +2,4 @@ This project contains the following programs:
     1) 'hello.c' which prints some messages.
     2) 'sum.c' which calculates the sum of two numbers.
     3) 'product.c' which calcultes the product of two numbers.
+    4) 'goodbye.c' which prints 'Goodbye!'.
