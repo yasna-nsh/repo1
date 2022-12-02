@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("Hello!");
+    printf("Hello!\n");
+    printf("Welcome to my first git repository.");
     return 0;
 }
